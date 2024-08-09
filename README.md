@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fjolnirr
 - 👀 I’m interested in Programming of any kind!!!
-- 🌱 I’m currently learning Java Spring Boot
+- 🌱 I’m a simulation software developer
 - 📫 How to reach me https://tr.linkedin.com/in/yusuf-can-anar-5b2927141
 
 <!---
